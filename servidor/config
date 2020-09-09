@@ -4,3 +4,6 @@
 	bare = true
 	symlinks = false
 	ignorecase = true
+[remote "local"]
+	url = C:/dev/git/git-e-github-curso-local/servidor
+	fetch = +refs/heads/*:refs/remotes/local/*
